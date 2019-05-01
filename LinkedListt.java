@@ -332,22 +332,4 @@ public class LinkedListt {
         }
         return null;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
-
